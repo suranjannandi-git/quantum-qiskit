@@ -8,3 +8,7 @@ python-dotenv
 qiskit_ibm_runtime
 
 sympy
+pandas
+scikit-learn
+
+seaborn
