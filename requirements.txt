@@ -12,3 +12,4 @@ pandas
 scikit-learn
 
 seaborn
+qiskit[qasm3-import]
